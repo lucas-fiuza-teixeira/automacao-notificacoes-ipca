@@ -49,3 +49,7 @@ Desenvolvi uma automação em Python que:
 ```bash
 pip install -r requirements.txt
 python -m main
+
+## Observação
+A pasta /data deve conter o arquivo devedores.xlsx
+A pasta /output recebe os arquivos gerados automaticamente
